@@ -43,6 +43,7 @@ The extension uses content scripts to detect when the user switches focus away f
 ## Contributing
 
 If you have ideas, suggestions, or want to help expand this extension, feel free to open an issue or contribute.
+My email: 1chandansoni1@gmail.com
 
 ---
 
