@@ -9,6 +9,15 @@ This is a lightweight Chrome extension that automatically pauses and resumes vid
 - Currently supports YouTube, Coursera, Khan Academy, Physics Wallah, and similar platforms
 - Runs silently in the background without interrupting your workflow
 
+## Demo
+This is a simple yet effective extension, it looks and works like this - 
+
+
+<img width="482" height="354" alt="image" src="https://github.com/user-attachments/assets/4f42cf46-301c-4376-b6c8-50501cb9a242" />
+<img width="486" height="353" alt="image" src="https://github.com/user-attachments/assets/1953518e-bb94-4011-9bbd-12a3b45300ed" />
+
+
+
 ## Why I Built This
 
 While learning from video lectures, I found it frustrating to constantly pause and play videos when switching between YouTube and a note-taking app. This extension solves that problem. Around 15 of my friends are already using it regularly, and I see real potential for it to grow with more features and platform support.
